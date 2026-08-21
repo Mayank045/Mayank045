@@ -26,7 +26,8 @@ I enjoy learning cybersecurity through CTFs, security labs, and hands-on project
 <h3><code>github@user:~$ cat interests.txt</code></h3>
 
 <br>
-[+] Learning Web Application Security
-[+] Practicing VAPT
-[+] Building Security Tools
-[+] Solving CTF Challenges
+
+` [+] Learning Web Application Security`
+` [+] Practicing VAPT`
+` [+] Building Security Tools`
+` [+] Solving CTF Challenges`
