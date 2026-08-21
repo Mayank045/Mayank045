@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mayank 👋
 
-<!--
-**Mayank045/Mayank045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused Computer Science undergraduate interested in
+VAPT, web application security, network security and security tooling.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vulnerability Assessment & Penetration Testing
+- Web Application Security
+- Network Security
+- OWASP Top 10
+- Authentication Security
+- Security Automation
+
+## 🛠️ Security Tools
+
+Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit
+
+## 🧪 Security Projects
+
+- WebVulnScan — Web Security Assessment Toolkit
+- VulnLab — Web Application Security Testing Lab
+- Authentication Security Lab
+
+## 🏆 Achievements
+
+- 9th Place — HackOn CTF, IIIT Delhi
+- CyberYoddha President
+- TryHackMe Hacker Holidays Challenge
+
+## 📚 Currently Learning
+
+Web Application Security • VAPT • Security Automation
