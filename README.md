@@ -1,4 +1,4 @@
-# Hi, I'm Mayank 👋
+# Hi, I'm Mayank
 
 Cybersecurity-focused Computer Science undergraduate interested in
 VAPT, web application security, network security and security tooling.
