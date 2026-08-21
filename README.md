@@ -1,28 +1,13 @@
-# Hi, I'm Mayank
+<div align="center">
 
-Cybersecurity-focused Computer Science undergraduate interested in
-VAPT, web application security, network security and security tooling.
+# MAYANK KUMAR SHARMA
 
-## 🔐 Cybersecurity
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+VAPT+%7C+Web+Application+Security;CTF+Player+%7C+Security+Tool+Builder;Breaking+Things+%E2%80%A2+Understanding+Them+%E2%80%A2+Securing+Them" alt="Typing SVG" />
 
-- Vulnerability Assessment & Penetration Testing
-- Web Application Security
-- Network Security
-- OWASP Top 10
-- Authentication Security
-- Security Automation
+<br>
 
-## 🛠️ Security Tools
+`[+] Cybersecurity-focused CSE Undergraduate`
 
-Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit
+`[+] VAPT • Web Security • Network Security • CTFs`
 
-## 🧪 Security Projects
-
-- WebVulnScan - Web Security Assessment Toolkit
-- VulnLab - Web Application Security Testing Lab
-- Authentication Security Lab
-
-
-## 📚 Currently Learning
-
-Web Application Security • VAPT • Security Automation
+</div>
