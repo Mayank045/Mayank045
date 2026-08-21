@@ -22,11 +22,6 @@ Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit
 - VulnLab - Web Application Security Testing Lab
 - Authentication Security Lab
 
-## 🏆 Achievements
-
-- 9th Place - HackOn CTF, IIIT Delhi
-- CyberYoddha President
-- TryHackMe Hacker Holidays Challenge
 
 ## 📚 Currently Learning
 
