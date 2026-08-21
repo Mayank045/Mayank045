@@ -22,3 +22,12 @@ I'm <strong>Mayank Kumar Sharma</strong>, a Computer Science undergraduate focus
 <p>
 I enjoy learning cybersecurity through CTFs, security labs, and hands-on projects.
 </p>
+
+<h3><code>github@user:~$ cat interests.txt</code></h3>
+
+```text
+Web Application Security
+Vulnerability Assessment & Penetration Testing
+Network Security
+CTFs & Security Labs
+Security Tool Development
