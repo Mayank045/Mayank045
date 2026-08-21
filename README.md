@@ -18,13 +18,13 @@ Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit
 
 ## 🧪 Security Projects
 
-- WebVulnScan — Web Security Assessment Toolkit
-- VulnLab — Web Application Security Testing Lab
+- WebVulnScan - Web Security Assessment Toolkit
+- VulnLab - Web Application Security Testing Lab
 - Authentication Security Lab
 
 ## 🏆 Achievements
 
-- 9th Place — HackOn CTF, IIIT Delhi
+- 9th Place - HackOn CTF, IIIT Delhi
 - CyberYoddha President
 - TryHackMe Hacker Holidays Challenge
 
