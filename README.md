@@ -11,3 +11,14 @@
 `[+] VAPT • Web Security • Network Security • CTFs`
 
 </div>
+
+<h2>🖥️ $ whoami</h2>
+
+<p>
+I'm <strong>Mayank Kumar Sharma</strong>, a Computer Science undergraduate focused on
+<strong>Cybersecurity, VAPT and Web Application Security</strong>.
+</p>
+
+<p>
+I enjoy learning cybersecurity through CTFs, security labs, and hands-on projects.
+</p>
